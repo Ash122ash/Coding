@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ash122ash/Coding/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ash122ash/Coding/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ash122ash/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Trie
