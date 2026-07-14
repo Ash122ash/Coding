@@ -32,6 +32,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ash122ash/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Ash122ash/Coding/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,5 +79,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Ash122ash/Coding/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
