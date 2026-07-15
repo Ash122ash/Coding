@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ash122ash/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ash122ash/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
