@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Ash122ash/Coding/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ash122ash/Coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ash122ash/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
