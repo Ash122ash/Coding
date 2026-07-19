@@ -44,6 +44,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ash122ash/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/Ash122ash/Coding/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Ash122ash/Coding/tree/master/0541-reverse-string-ii) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ash122ash/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ash122ash/Coding/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Ash122ash/Coding/tree/master/0443-string-compression) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ash122ash/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
