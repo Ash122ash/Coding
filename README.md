@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ash122ash/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ash122ash/Coding/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ash122ash/Coding/tree/master/0056-merge-intervals) |
@@ -61,6 +62,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -92,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ash122ash/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
