@@ -97,6 +97,7 @@
 | [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
+| [2469-convert-the-temperature](https://github.com/Ash122ash/Coding/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ash122ash/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
