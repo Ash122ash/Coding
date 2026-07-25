@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ash122ash/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -137,4 +138,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ash122ash/Coding/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
