@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Ash122ash/Coding/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Ash122ash/Coding/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ash122ash/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -122,6 +124,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
@@ -140,4 +143,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ash122ash/Coding/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
