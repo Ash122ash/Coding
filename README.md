@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ash122ash/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ash122ash/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ash122ash/Coding/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
