@@ -22,6 +22,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ash122ash/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Ash122ash/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
@@ -34,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -41,6 +43,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ash122ash/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Ash122ash/Coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
@@ -60,6 +63,7 @@
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Ash122ash/Coding/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Ash122ash/Coding/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ash122ash/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -72,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
