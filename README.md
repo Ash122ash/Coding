@@ -117,6 +117,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [2469-convert-the-temperature](https://github.com/Ash122ash/Coding/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ash122ash/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Ash122ash/Coding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ash122ash/Coding/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
