@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ash122ash/Coding/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ash122ash/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ash122ash/Coding/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
 ## Prefix Sum
 |  |
 | ------- |
