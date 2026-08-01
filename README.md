@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/Ash122ash/Coding/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ash122ash/Coding/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ash122ash/Coding/tree/master/0215-kth-largest-element-in-an-array) |
@@ -63,6 +64,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
@@ -75,6 +77,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Ash122ash/Coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ash122ash/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
