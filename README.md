@@ -187,6 +187,7 @@
 | [0002-add-two-numbers](https://github.com/Ash122ash/Coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ash122ash/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/Ash122ash/Coding/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -195,4 +196,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Ash122ash/Coding/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
