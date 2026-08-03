@@ -200,6 +200,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
 ## Memoization
 |  |
@@ -208,6 +209,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Ash122ash/Coding/tree/master/0707-design-linked-list) |
 ## Sliding Window
 |  |
