@@ -31,6 +31,7 @@
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
