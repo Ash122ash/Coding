@@ -114,6 +114,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ash122ash/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ash122ash/Coding/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Ash122ash/Coding/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Ash122ash/Coding/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
