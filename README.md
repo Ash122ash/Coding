@@ -103,6 +103,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@
 | [0014-longest-common-prefix](https://github.com/Ash122ash/Coding/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ash122ash/Coding/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ash122ash/Coding/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
