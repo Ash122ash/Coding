@@ -130,6 +130,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ash122ash/Coding/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
@@ -222,6 +223,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
 ## Memoization
