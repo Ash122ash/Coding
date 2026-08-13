@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/Ash122ash/Coding/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
@@ -77,6 +78,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ash122ash/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ash122ash/Coding/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0088-merge-sorted-array) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ash122ash/Coding/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
@@ -223,6 +226,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
@@ -240,4 +244,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ash122ash/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ash122ash/Coding/tree/master/0209-minimum-size-subarray-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
