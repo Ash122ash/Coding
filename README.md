@@ -36,6 +36,7 @@
 | [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
 ## Memoization
 |  |
 | ------- |
