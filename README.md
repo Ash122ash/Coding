@@ -52,6 +52,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
 | [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
+| [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
 ## Dynamic Programming
 |  |
@@ -146,6 +148,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ash122ash/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Ash122ash/Coding/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Ash122ash/Coding/tree/master/1108-defanging-an-ip-address) |
+| [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
+| [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
 ## Memoization
