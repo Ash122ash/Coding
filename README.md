@@ -35,6 +35,7 @@
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 | [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
@@ -195,6 +196,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ash122ash/Coding/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
+| [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
+| [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
 ## Memoization
 |  |
@@ -251,4 +254,5 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
+| [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
