@@ -34,6 +34,7 @@
 | [0704-binary-search](https://github.com/Ash122ash/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ash122ash/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 | [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
@@ -104,6 +105,7 @@
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ash122ash/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -117,6 +119,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ash122ash/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2390-removing-stars-from-a-string](https://github.com/Ash122ash/Coding/tree/master/2390-removing-stars-from-a-string) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ash122ash/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Recursion
 |  |
 | ------- |
