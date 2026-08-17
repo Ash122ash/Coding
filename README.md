@@ -280,6 +280,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ash122ash/Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ash122ash/Coding/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -287,6 +288,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ash122ash/Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ash122ash/Coding/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -294,6 +296,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ash122ash/Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ash122ash/Coding/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -304,4 +307,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ash122ash/Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ash122ash/Coding/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
