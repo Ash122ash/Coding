@@ -243,6 +243,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Ash122ash/Coding/tree/master/2390-removing-stars-from-a-string) |
@@ -272,4 +273,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ash122ash/Coding/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
