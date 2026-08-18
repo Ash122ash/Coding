@@ -285,6 +285,7 @@
 | [0112-path-sum](https://github.com/Ash122ash/Coding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -299,6 +300,7 @@
 | [0112-path-sum](https://github.com/Ash122ash/Coding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -312,6 +314,7 @@
 | [0112-path-sum](https://github.com/Ash122ash/Coding/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -329,4 +332,8 @@
 | [0112-path-sum](https://github.com/Ash122ash/Coding/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
