@@ -294,6 +294,7 @@
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2236-root-equals-sum-of-children](https://github.com/Ash122ash/Coding/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash122ash/Coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ash122ash/Coding/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -312,6 +313,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash122ash/Coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ash122ash/Coding/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -332,6 +334,7 @@
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2236-root-equals-sum-of-children](https://github.com/Ash122ash/Coding/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash122ash/Coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ash122ash/Coding/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Hash Function
 |  |
