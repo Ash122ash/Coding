@@ -288,6 +288,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ash122ash/Coding/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ash122ash/Coding/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -309,6 +310,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ash122ash/Coding/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ash122ash/Coding/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -330,6 +332,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ash122ash/Coding/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ash122ash/Coding/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -359,4 +362,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ash122ash/Coding/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
