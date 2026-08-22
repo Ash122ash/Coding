@@ -317,6 +317,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash122ash/Coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ash122ash/Coding/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -358,6 +359,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -370,4 +372,9 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Ash122ash/Coding/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
