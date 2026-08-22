@@ -39,6 +39,7 @@
 | [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 | [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Ash122ash/Coding/tree/master/3834-merge-adjacent-equal-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ash122ash/Coding/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ash122ash/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ash122ash/Coding/tree/master/0074-search-a-2d-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ash122ash/Coding/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Ash122ash/Coding/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ash122ash/Coding/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
