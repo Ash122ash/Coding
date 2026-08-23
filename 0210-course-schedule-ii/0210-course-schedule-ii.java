@@ -25,6 +25,7 @@ class Solution {
             order[idx++] = curr;
             for (int neighbor : graph.get(curr)) {
                 n[neighbor]--;
+                
                 if (n[neighbor] == 0) {
                     queue.offer(neighbor);
                 }
