@@ -322,6 +322,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
@@ -368,6 +369,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Ash122ash/Coding/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
@@ -384,6 +386,7 @@
 | [0207-course-schedule](https://github.com/Ash122ash/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ash122ash/Coding/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ash122ash/Coding/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Ash122ash/Coding/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Ash122ash/Coding/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
@@ -398,8 +401,17 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Ash122ash/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ash122ash/Coding/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ash122ash/Coding/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
