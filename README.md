@@ -322,6 +322,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -369,6 +370,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Ash122ash/Coding/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Ash122ash/Coding/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
@@ -386,6 +388,7 @@
 | [0207-course-schedule](https://github.com/Ash122ash/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ash122ash/Coding/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ash122ash/Coding/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Ash122ash/Coding/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Ash122ash/Coding/tree/master/1791-find-center-of-star-graph) |
@@ -395,6 +398,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ash122ash/Coding/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -414,4 +418,12 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
