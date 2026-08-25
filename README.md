@@ -327,6 +327,7 @@
 | [0743-network-delay-time](https://github.com/Ash122ash/Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Ash122ash/Coding/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ash122ash/Coding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
@@ -377,6 +378,7 @@
 | [0743-network-delay-time](https://github.com/Ash122ash/Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Ash122ash/Coding/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/Ash122ash/Coding/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
@@ -397,6 +399,7 @@
 | [0743-network-delay-time](https://github.com/Ash122ash/Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ash122ash/Coding/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ash122ash/Coding/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Ash122ash/Coding/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Ash122ash/Coding/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Ash122ash/Coding/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ash122ash/Coding/tree/master/1971-find-if-path-exists-in-graph) |
