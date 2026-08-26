@@ -34,6 +34,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Ash122ash/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Ash122ash/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0997-find-the-town-judge](https://github.com/Ash122ash/Coding/tree/master/0997-find-the-town-judge) |
@@ -140,6 +141,7 @@
 | [0118-pascals-triangle](https://github.com/Ash122ash/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ash122ash/Coding/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
