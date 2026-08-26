@@ -142,6 +142,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ash122ash/Coding/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ash122ash/Coding/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 | [2469-convert-the-temperature](https://github.com/Ash122ash/Coding/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ash122ash/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -453,4 +455,16 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ash122ash/Coding/tree/master/0743-network-delay-time) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
