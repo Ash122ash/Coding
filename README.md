@@ -97,6 +97,7 @@
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Ash122ash/Coding/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Ash122ash/Coding/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Ash122ash/Coding/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ash122ash/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -140,6 +141,7 @@
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ash122ash/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Ash122ash/Coding/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ash122ash/Coding/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
@@ -158,6 +160,7 @@
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Ash122ash/Coding/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Ash122ash/Coding/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Ash122ash/Coding/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ash122ash/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
