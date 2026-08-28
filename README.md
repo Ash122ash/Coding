@@ -146,6 +146,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Ash122ash/Coding/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/Ash122ash/Coding/tree/master/1668-maximum-repeating-substring) |
 ## String
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ash122ash/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Ash122ash/Coding/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Ash122ash/Coding/tree/master/1108-defanging-an-ip-address) |
+| [1668-maximum-repeating-substring](https://github.com/Ash122ash/Coding/tree/master/1668-maximum-repeating-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Ash122ash/Coding/tree/master/2390-removing-stars-from-a-string) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
 ## Trie
@@ -220,6 +222,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Ash122ash/Coding/tree/master/0572-subtree-of-another-tree) |
+| [1668-maximum-repeating-substring](https://github.com/Ash122ash/Coding/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
