@@ -38,6 +38,7 @@
 | [0875-koko-eating-bananas](https://github.com/Ash122ash/Coding/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Ash122ash/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0997-find-the-town-judge](https://github.com/Ash122ash/Coding/tree/master/0997-find-the-town-judge) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ash122ash/Coding/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 | [3731-find-missing-elements](https://github.com/Ash122ash/Coding/tree/master/3731-find-missing-elements) |
@@ -147,6 +148,7 @@
 | [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Ash122ash/Coding/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Ash122ash/Coding/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ash122ash/Coding/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Ash122ash/Coding/tree/master/1108-defanging-an-ip-address) |
 | [1668-maximum-repeating-substring](https://github.com/Ash122ash/Coding/tree/master/1668-maximum-repeating-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Ash122ash/Coding/tree/master/2390-removing-stars-from-a-string) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ash122ash/Coding/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
 ## Trie
 |  |
@@ -228,6 +231,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ash122ash/Coding/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ash122ash/Coding/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
