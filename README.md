@@ -149,6 +149,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Ash122ash/Coding/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Ash122ash/Coding/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ash122ash/Coding/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ash122ash/Coding/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [0191-number-of-1-bits](https://github.com/Ash122ash/Coding/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ash122ash/Coding/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -480,4 +482,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ash122ash/Coding/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
