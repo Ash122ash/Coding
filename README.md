@@ -51,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ash122ash/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ash122ash/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ash122ash/Coding/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
@@ -94,6 +95,7 @@
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ash122ash/Coding/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
@@ -188,6 +190,7 @@
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ash122ash/Coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ash122ash/Coding/tree/master/0509-fibonacci-number) |
@@ -486,4 +489,8 @@
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ash122ash/Coding/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
