@@ -136,6 +136,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Ash122ash/Coding/tree/master/0067-add-binary) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Ash122ash/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2390-removing-stars-from-a-string](https://github.com/Ash122ash/Coding/tree/master/2390-removing-stars-from-a-string) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
@@ -175,6 +176,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ash122ash/Coding/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Ash122ash/Coding/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Ash122ash/Coding/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
@@ -203,6 +205,7 @@
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ash122ash/Coding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ash122ash/Coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
@@ -216,6 +219,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ash122ash/Coding/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ash122ash/Coding/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Ash122ash/Coding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ash122ash/Coding/tree/master/0191-number-of-1-bits) |
