@@ -151,6 +151,7 @@
 | [0063-unique-paths-ii](https://github.com/Ash122ash/Coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ash122ash/Coding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Ash122ash/Coding/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Ash122ash/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ash122ash/Coding/tree/master/0392-is-subsequence) |
@@ -173,6 +174,7 @@
 | [0038-count-and-say](https://github.com/Ash122ash/Coding/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/Ash122ash/Coding/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
