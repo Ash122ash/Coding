@@ -55,6 +55,7 @@
 | [0012-integer-to-roman](https://github.com/Ash122ash/Coding/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Ash122ash/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ash122ash/Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ash122ash/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
@@ -99,6 +100,7 @@
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ash122ash/Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ash122ash/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
@@ -287,6 +289,7 @@
 | [0061-rotate-list](https://github.com/Ash122ash/Coding/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ash122ash/Coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ash122ash/Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ash122ash/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ash122ash/Coding/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Ash122ash/Coding/tree/master/0707-design-linked-list) |
