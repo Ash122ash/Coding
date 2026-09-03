@@ -65,6 +65,7 @@
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0997-find-the-town-judge](https://github.com/Ash122ash/Coding/tree/master/0997-find-the-town-judge) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
@@ -188,6 +189,7 @@
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ash122ash/Coding/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Ash122ash/Coding/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Ash122ash/Coding/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ash122ash/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -325,6 +327,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ash122ash/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ash122ash/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ash122ash/Coding/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
