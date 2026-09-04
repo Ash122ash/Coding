@@ -27,6 +27,7 @@
 | [0118-pascals-triangle](https://github.com/Ash122ash/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ash122ash/Coding/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Ash122ash/Coding/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ash122ash/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ash122ash/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ash122ash/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ash122ash/Coding/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ash122ash/Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ash122ash/Coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ash122ash/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ash122ash/Coding/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ash122ash/Coding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ash122ash/Coding/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ash122ash/Coding/tree/master/0215-kth-largest-element-in-an-array) |
@@ -122,6 +125,7 @@
 | [0056-merge-intervals](https://github.com/Ash122ash/Coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ash122ash/Coding/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ash122ash/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ash122ash/Coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
@@ -249,6 +253,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ash122ash/Coding/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
@@ -539,4 +544,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ash122ash/Coding/tree/master/0022-generate-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ash122ash/Coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
