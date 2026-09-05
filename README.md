@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ash122ash/Coding/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ash122ash/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Ash122ash/Coding/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Ash122ash/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
@@ -69,6 +70,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ash122ash/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Ash122ash/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/Ash122ash/Coding/tree/master/0997-find-the-town-judge) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ash122ash/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Ash122ash/Coding/tree/master/3412-find-mirror-score-of-a-string) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ash122ash/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ash122ash/Coding/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ash122ash/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ash122ash/Coding/tree/master/0724-find-pivot-index) |
 ## Queue
 |  |
