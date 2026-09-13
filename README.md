@@ -220,6 +220,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ash122ash/Coding/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Ash122ash/Coding/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Ash122ash/Coding/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ash122ash/Coding/tree/master/0066-plus-one) |
@@ -237,6 +238,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ash122ash/Coding/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ash122ash/Coding/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ash122ash/Coding/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Ash122ash/Coding/tree/master/0190-reverse-bits) |
