@@ -558,4 +558,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ash122ash/Coding/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ash122ash/Coding/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
