@@ -15,6 +15,7 @@
 | [0045-jump-game-ii](https://github.com/Ash122ash/Coding/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Ash122ash/Coding/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Ash122ash/Coding/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Ash122ash/Coding/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ash122ash/Coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
@@ -553,6 +554,7 @@
 | [0022-generate-parentheses](https://github.com/Ash122ash/Coding/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ash122ash/Coding/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ash122ash/Coding/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Ash122ash/Coding/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -567,4 +569,8 @@
 | [0175-combine-two-tables](https://github.com/Ash122ash/Coding/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/Ash122ash/Coding/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Ash122ash/Coding/tree/master/0178-rank-scores) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ash122ash/Coding/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
