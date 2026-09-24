@@ -1,14 +1,12 @@
 class Solution {
     public int rob(int[] nums) {
-        int prev2 = 0; // Max profit up to house i - 2
-        int prev1 = 0; // Max profit up to house i - 1
-
+        int prevv = 0; 
+        int prev = 0; 
         for (int num : nums) {
-            int current = Math.max(prev1, prev2 + num);
-            prev2 = prev1;
-            prev1 = current;
+        int current = Math.max(prev, prevv + num);
+            prevv= prev;
+            prev = current;
         }
-
-        return prev1;
+        return prev;
     }
 }
