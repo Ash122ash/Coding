@@ -240,6 +240,7 @@
 | [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Ash122ash/Coding/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Ash122ash/Coding/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Ash122ash/Coding/tree/master/1137-n-th-tribonacci-number) |
@@ -536,14 +537,17 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ash122ash/Coding/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ash122ash/Coding/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ash122ash/Coding/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Ash122ash/Coding/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |
@@ -580,4 +584,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Ash122ash/Coding/tree/master/0051-n-queens) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ash122ash/Coding/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ash122ash/Coding/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
