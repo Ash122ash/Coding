@@ -28,6 +28,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ash122ash/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ash122ash/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ash122ash/Coding/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Ash122ash/Coding/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Ash122ash/Coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ash122ash/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@
 | [0064-minimum-path-sum](https://github.com/Ash122ash/Coding/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ash122ash/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ash122ash/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Ash122ash/Coding/tree/master/0085-maximal-rectangle) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ash122ash/Coding/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
@@ -178,6 +180,7 @@
 | [0063-unique-paths-ii](https://github.com/Ash122ash/Coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ash122ash/Coding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Ash122ash/Coding/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Ash122ash/Coding/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Ash122ash/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -330,6 +333,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/Ash122ash/Coding/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash122ash/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Ash122ash/Coding/tree/master/0155-min-stack) |
@@ -361,6 +365,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Ash122ash/Coding/tree/master/0085-maximal-rectangle) |
 | [3523-make-array-non-decreasing](https://github.com/Ash122ash/Coding/tree/master/3523-make-array-non-decreasing) |
 ## Newton's Method
 |  |
