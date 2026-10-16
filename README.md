@@ -176,6 +176,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ash122ash/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ash122ash/Coding/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ash122ash/Coding/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Ash122ash/Coding/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ash122ash/Coding/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ash122ash/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
@@ -208,6 +209,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ash122ash/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ash122ash/Coding/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ash122ash/Coding/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Ash122ash/Coding/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Ash122ash/Coding/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ash122ash/Coding/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Ash122ash/Coding/tree/master/0091-decode-ways) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ash122ash/Coding/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ash122ash/Coding/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ash122ash/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ash122ash/Coding/tree/master/0055-jump-game) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ash122ash/Coding/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -314,6 +317,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ash122ash/Coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ash122ash/Coding/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Ash122ash/Coding/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Ash122ash/Coding/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ash122ash/Coding/tree/master/0234-palindrome-linked-list) |
