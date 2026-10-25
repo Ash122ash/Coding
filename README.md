@@ -72,6 +72,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ash122ash/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ash122ash/Coding/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ash122ash/Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ash122ash/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Ash122ash/Coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
@@ -224,6 +225,7 @@
 | [0091-decode-ways](https://github.com/Ash122ash/Coding/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Ash122ash/Coding/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Ash122ash/Coding/tree/master/0097-interleaving-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ash122ash/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ash122ash/Coding/tree/master/0344-reverse-string) |
@@ -255,6 +257,7 @@
 | [0067-add-binary](https://github.com/Ash122ash/Coding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ash122ash/Coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ash122ash/Coding/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ash122ash/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Ash122ash/Coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ash122ash/Coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ash122ash/Coding/tree/master/0268-missing-number) |
