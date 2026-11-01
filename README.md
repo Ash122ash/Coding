@@ -200,6 +200,7 @@
 | [0120-triangle](https://github.com/Ash122ash/Coding/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash122ash/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ash122ash/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ash122ash/Coding/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Ash122ash/Coding/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Ash122ash/Coding/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ash122ash/Coding/tree/master/0509-fibonacci-number) |
@@ -228,6 +229,7 @@
 | [0091-decode-ways](https://github.com/Ash122ash/Coding/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Ash122ash/Coding/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Ash122ash/Coding/tree/master/0097-interleaving-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ash122ash/Coding/tree/master/0132-palindrome-partitioning-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ash122ash/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Ash122ash/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ash122ash/Coding/tree/master/0242-valid-anagram) |
